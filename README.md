@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @BudhaTronix
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning time series data analysis 
-- 📫 You can reach me via email: budha2011@gmail.com
+# 👋 Hi, I'm Budhaditya Mukhopadhyay
 
-<!---
-BudhaTronix/BudhaTronix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Principal-level AI Engineer | Healthcare AI | Audio & Multimodal ML  
+🇮🇳 → 🇩🇪 Indian expat | Permanent Resident in Germany  
+
+---
+
+## 🧠 What I Work On
+- 🎧 Audio ML (Inhalation / Exhalation / Noise detection)
+- 🤖 Deep Learning & Multimodal AI
+- 🏥 Healthcare AI (regulated environments)
+- 📱 On-device ML (mobile-first deployment)
+- 🧪 Model evaluation under noisy real-world conditions
+
+---
+
+## 🔬 Current Focus
+- Large Language Models (LLMs)
+- Vision-Language Models (VLMs)
+- Model architecture & system design
+- Edge AI & efficient inference
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript  
+**ML:** PyTorch, TensorFlow, ONNX  
+**Audio:** FFT, MFCC, Spectrograms  
+**Deployment:** Mobile AI, Edge devices  
+**Tools:** Git, Docker, Linux
+
+---
+
+## 📌 Featured Projects
+⬇️ Check pinned repositories below ⬇️
+
+---
+
+## 📫 Connect
+- LinkedIn: *(add link)*
+- Email: *(optional)*

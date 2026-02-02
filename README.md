@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Budhaditya Mukhopadhyay
 
-🚀 Principal-level AI Engineer | Healthcare AI | Audio & Multimodal ML  
+🚀 Senior AI Engineer | Healthcare AI | Audio & Multimodal ML  
 🇮🇳 → 🇩🇪 Indian expat | Permanent Resident in Germany  
 
 ---
@@ -31,10 +31,6 @@
 
 ---
 
-## 📌 Featured Projects
-⬇️ Check pinned repositories below ⬇️
-
----
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/budhadityamukhopadhyay/

@@ -37,5 +37,5 @@
 ---
 
 ## 📫 Connect
-- LinkedIn: *(add link)*
-- Email: *(optional)*
+- LinkedIn: https://www.linkedin.com/in/budhadityamukhopadhyay/
+- Email: budha2011@gmail.com

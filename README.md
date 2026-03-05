@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Budhaditya Mukhopadhyay
 
-🚀 Senior AI Engineer | Healthcare AI | Audio & Multimodal ML  
-🇮🇳 → 🇩🇪 Indian expat | Permanent Resident in Germany  
+🚀 Senior AI Engineer | Healthcare AI | Audio & Multimodal ML | Drone Tech Expert
 
 ---
 

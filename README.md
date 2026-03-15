@@ -18,6 +18,7 @@
 - Vision-Language Models (VLMs)
 - Model architecture & system design
 - Edge AI & efficient inference
+- Complex Valued CNNs
 
 ---
 
